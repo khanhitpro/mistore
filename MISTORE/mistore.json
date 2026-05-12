@@ -8,14 +8,13 @@
     "tivi": {
       "apps": [
         {
-          "name": "WEB NGA V2",
-          "versionName": "Mới Nhất",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/XIAOMI/releases/download/khoapp1/configV2.apk",
-          "note": "Sport TV xem truyền hình, bóng đá trực tuyến.",
+          "name": "TV360",
+          "versionName": "mới nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/logo1.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/tv360.2.apk",
           "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/anh1.png"
           ]
         },
         {
@@ -49,6 +48,16 @@
            "note": "BẢN QUYỀN NHÀ MẠNG FPT.",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh1.png"
+          ]
+          },
+        {
+         "name": "VTVGO",
+          "versionName": "mới nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/logo1.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/vtv.go.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"
           ]
         },
         {
@@ -168,23 +177,6 @@
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstorepro/releases/download/store/bongda.apk",
           "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
         },
-         {
-          "name": "PHIM VI VU",
-          "versionName": "Mới nhất",
-          "type": "Giải Trí",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logophimvivu.jpg",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/phimvivu.apk",
-          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logophimvivu.jpg"]
-        },
-        {
-          "name": "TRUYỀN HÌNH IMEDIA",
-          "versionName": "mới nhất",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/imediatv.1.apk",
-          "note": "Ứng dụng xem truyền hình miễn phí.",
-          "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
-        },
         {
           "name": "MapVoice",
           "versionName": "mới nhất",
@@ -270,16 +262,6 @@
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/iqy.apk",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/anh1.png"
-          ]
-        },
-        {
-          "name": "TV360",
-          "versionName": "mới nhất",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/logo1.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/tv360.2.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/anh1.png"
           ]
         },
         {
