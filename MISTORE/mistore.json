@@ -445,11 +445,11 @@
           ]
         },
         {
-         "name": "WEB NGA V2",
+         "name": "WEB BÊN NGA V2",
           "versionName": "Mới Nhất",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/XIAOMI/releases/download/khoapp1/configV2.apk",
+          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/JioSphere.apk",
           "note": "Sport TV xem truyền hình, bóng đá trực tuyến.",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
