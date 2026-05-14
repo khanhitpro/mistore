@@ -182,11 +182,11 @@
     "entertainment": {
       "apps": [
          {
-          "name": "PROJECT LAUNCHER PREMIUM",
+          "name": "MI VTV",
           "versionName": "4.66",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/XIAOMI/releases/download/khoapp1/PROJECTLAUCER6.68.apk",
+          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/mivtv.apk",
           "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
        },
         {
