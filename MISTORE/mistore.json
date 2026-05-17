@@ -1,7 +1,7 @@
 {
   "data": {
     "notification": {
-      "note": " MI STOTE 9.9.6 - CẬP NHẬT 12/05 - 🔥 CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ   ",
+      "note": " MI STOTE 9.9.6 - CẬP NHẬT 17/05 - 🔥 CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ   ",
       "photo": "https://github.com/khanhitpro/mistore/releases/download/mistore/splash.png"
     },
 
@@ -189,6 +189,14 @@
           "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/mivtv.apk",
           "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
        },
+         {
+          "name": "Phim 4K",
+          "versionName": "2.5.8",
+          "type": "Giải Trí",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/4K.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/Phim4K-v2.5.8.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/4K.png"]
+         },
         {
           "name": "Spotify",
           "versionName": "mới nhất",
