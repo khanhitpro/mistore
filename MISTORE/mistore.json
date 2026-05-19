@@ -84,11 +84,12 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
         },
          {
-          "name": "YOUTOBE NO VOICE",
+          "name": "CLOUD STREAM MOD",
           "versionName": "mới nhất",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/tizentube/tizentube.1.apk",
+          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/cloudstream.apk",
+          "note": "Pass - nghien android tv - nhập mật khẩu để vào app.",
           "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
         },
         {
@@ -440,7 +441,8 @@
           "versionName": "8.1",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/OK%20TV/logook.jpg",
-          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/Ok-tivi-V8_1.apk",
+          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/oktivi.v2.apk",
+          "note": "LƯU TUẤN SƠN TÀI TRỢ CHƯƠNG TRÌNH NÀY - https://byvn.net/pFct.",
           "preview": [
             "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/OK%20TV/logook.jpg"
           ]
