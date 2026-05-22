@@ -59,6 +59,14 @@
           "note": "Tiktok do cộng đồng tivi xiaomi mod – xem video mượt mà, không gián đoạn, trải nghiệm giải trí đỉnh cao chỉ với một lần cài đặt.",
           "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
         },
+        {
+          "name": "Tik Tok Life V2",
+          "versionName": "mới nhất",
+          "type": "giải trí",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logotiktoklife.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/tiktoklife.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logotiktoklife.jpg"]
+        },
          {
           "name": "CLOUD STREAM MOD",
           "versionName": "mới nhất",
