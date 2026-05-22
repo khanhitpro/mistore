@@ -480,6 +480,17 @@
           ]
         },
         {
+          "name": "OK TIVI V2",
+          "versionName": "8.1",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/OK%20TV/logook.jpg",
+          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/oktivi2.apk",
+          "note": "LƯU TUẤN SƠN TÀI TRỢ CHƯƠNG TRÌNH NÀY - ĐÃ ĐC MOD LẠI LINK.",
+          "preview": [
+            "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/OK%20TV/logook.jpg"
+          ]
+        },
+        {
           "name": "OK TIVI",
           "versionName": "8.1",
           "type": "Truyền hình trực tuyến",
