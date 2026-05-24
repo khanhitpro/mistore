@@ -1,7 +1,7 @@
 {
   "data": {
     "notification": {
-      "note": " MI STOTE BẢN CẬP NHẬT CUỐI CÙNG - 🔥 CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CHÍNH THỐNG THEO NGHỊ ĐỊNH MỚI NHẤT CỦA CHÍNH PHỦ   ",
+      "note": " MI STOTE BẢN CẬP NHẬT CUỐI CÙNG - 🔥 CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI APP CHÍNH THỐNG THEO NGHỊ ĐỊNH MỚI NHẤT CỦA CHÍNH PHỦ   ",
       "photo": "https://github.com/khanhitpro/mistore/releases/download/mistore/splash.png"
     },
 
@@ -82,24 +82,14 @@
     "entertainment": {
       "apps": [
          {
-          "name": "VieON",
-          "versionName": "Mới Nhất",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/logo1.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/vieon.apk",
-          "note": "Ứng dụng VieON xem phim, truyền hình.",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/anh1.png"]
-        },
-        {
-          "name": "TRÌNH TẢI APP DÀNH CHO XIAOMI",
-          "versionName": "3.10.13",
+           "name": "BẢO HÀNH PHẦN MỀM",
+          "versionName": "9.6.6",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/ferraridownloader.apk",
+          "note": "TẢI APP BẰNG LINK - CẬP NHẬT APP CHO KHÁCH HÀNG ĐÃ SỬ DỤNG DỊCH VỤ CÀI TIVI XIAOMI- DỊCH VỤ HỖ TRỢ CÀI APP CHO KHÁCH HÀNG.",
           "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
-          ]
+            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
         },
         {
           "name": "Galaxy",
@@ -112,12 +102,14 @@
           ]
         },
         {
-          "name": "Stremio",
-          "versionName": "1.6.7",
-          "type": "Giải Trí",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logostremio.jpg",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/stremio.apk",
-          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logostremio.jpg"]
+         "name": "VieON",
+          "versionName": "Mới Nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/logo1.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/vieon.apk",
+          "note": "Ứng dụng VieON xem phim, truyền hình.",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/anh1.png"]
         },
         {
           "name": "bilibili",
