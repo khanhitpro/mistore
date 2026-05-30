@@ -130,64 +130,60 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/anh1.png"]
         },
         {
-          "name": "BÀN PHÍM TIẾNG VIỆT",
+          "name": "CÒ TIVI",
           "versionName": "2.2.0",
           "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/keyboard.apk",
+          "linkDownload": "https://github.com/khanhitpro/caiappxiaomi/releases/download/store1/cotv.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
           ]
         },
         {
-          "name": "SETTING XIAOMI",
+          "name": "GET OUT",
           "versionName": "2.2.0",
           "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/6_StartSettings.1.0.apk",
+          "linkDownload": "https://github.com/khanhitpro/caiappxiaomi/releases/download/store1/getout.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
           ]
        },
         {
-          "name": "PROJECT LAUNCHER V2",
+          "name": "MI VTV V1",
           "versionName": "4.66",
           "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/PROJECT LAUNCHER/icon.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/project.laucher.apk",
-          "note": "VUI LÒNG KHÔNG TỰ CÀI NẾU KO CÓ HƯỚNG ĐẪN - Project Launcher By Khánh IT – giải pháp tối ưu giúp TV Android mượt hơn, gọn gàng hơn và dễ sử dụng chỉ trong vài thao tác..",
+          "linkDownload": "https://github.com/khanhitpro/caiappxiaomi/releases/download/store1/mivtv.apk",
           "preview": [
             "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/PROJECT LAUNCHER/icon.png" ]
         },
         {
-          "name": "SET PHÍM HOME XIAOMI",
+          "name": "MI VTV V2",
           "versionName": "Mới Nhất",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/4_SETPHIMDIEUKHIEN.apk",
-          "note": "Set phím home mặc định.",
+          "linkDownload": "https://github.com/khanhitpro/caiappxiaomi/releases/download/store1/mivtvplus.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
           ]
         },
         {
-          "name": "CÀI ĐẶT ANDROID",
+          "name": "VIETPLAY",
           "versionName": "Mới Nhất",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/settings_pro.apk",
-          "note": "SETTING TIẾNG VIỆT CHO TIVI XIAOMI CHẠY ANDROID 9.",
+          "linkDownload": "https://github.com/khanhitpro/caiappxiaomi/releases/download/store1/vietplaytv.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
           ]
         },
         {
-          "name": "CÀI ĐẶT MITV",
+          "name": "VMT",
           "versionName": "Mới Nhất",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/settings_mitv.apk",
-          "note": "Ứng dụng HỖ TRỢ CHO SETTING TIVI XIAOMI.",
+          "linkDownload": "https://github.com/khanhitpro/caiappxiaomi/releases/download/store1/vmtmod2.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
           ]
