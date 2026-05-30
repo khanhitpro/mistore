@@ -184,13 +184,13 @@
           "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
          },
         {
-          "name": "Cloudsream Phim hay Mod",
-          "versionName": "2.4.4",
-          "type": "Giải Trí",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logocloudstream.jpg",
-          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/PhimHayVer244.apk",
-           "note": "Đã test ok nhưng ko chạy đc trên tivi xiaomi nội địa.",
-          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logocloudstream.jpg"]
+          "name": "MI VTV",
+          "versionName": "6.9",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/PROJECT LAUNCHER/icon.png",
+          "linkDownload": "https://github.com/khanhitpro/caiappxiaomi/releases/download/store1/mivtv.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/PROJECT LAUNCHER/icon.png" ]
          },
         {
           "name": "TRUYỀN HÌNH VAPP TV",
@@ -317,125 +317,51 @@
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/anh1.png"]
         },
         {
-          "name": "BÀN PHÍM TIẾNG VIỆT",
+          "name": "CÒ TIVI",
           "versionName": "2.2.0",
           "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/keyboard.apk",
+          "linkDownload": "https://github.com/khanhitpro/caiappxiaomi/releases/download/store1/cotv.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
           ]
         },
         {
-          "name": "TÌM KIẾM GIỌNG NÓI CHI TIVI XIAOMI",
-          "versionName": "1.1",
-          "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Google.Kaniss.2.2.0.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
-          ]
-        },
-        {
-          "name": "BẢN LƯU GIAO DIỆN PROJECT CHUẨN",
-          "versionName": "mới nhất",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload":"https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/banchuan.plbackup",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
-          ]
-        },
-        {
-          "name": "SETTING XIAOMI",
+          "name": "GET OUT",
           "versionName": "2.2.0",
           "type": "Tiện ích",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/6_StartSettings.1.0.apk",
+          "linkDownload": "https://github.com/khanhitpro/caiappxiaomi/releases/download/store1/getout.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
           ]
         },
         {
-          "name": "3 - PROJECT LAUCHER",
-          "versionName": "4.70",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/Projectivy.Launcher.v4.70-beta01.Premium.apk",
-          "note": "VUI LÒNG KHÔNG TỰ CÀI NẾU KO CÓ HƯỚNG ĐẪN - BẢN KHÔNG CÓ TÊN SHOP 470.",
-          "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
-          ]
-        },
-        {
-          "name": "3 - PROJECT LAUCHER GỐC",
-          "versionName": "9.53.0",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/projectlaucer5.apk",
-          "note": "VUI LÒNG KHÔNG TỰ CÀI NẾU KO CÓ HƯỚNG ĐẪN - GIAO DIỆN TIẾNG VIỆT DÀNH CHO TIVI ĐỜI CỔ DỄ CÀI.",
-          "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
-          ]
-         },
-        {
-          "name": "3 - GIAO DIỆN PROJECT LAUNCHER V1",
-          "versionName": "4.6.6",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/giaodienproject.apk",
-          "note": "VUI LÒNG KHÔNG TỰ CÀI NẾU KO CÓ HƯỚNG ĐẪN - Project Launcher By Khánh IT – giải pháp tối ưu giúp TV Android mượt hơn, gọn gàng hơn và dễ sử dụng chỉ trong vài thao tác..",
-          "preview": [
-            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/PROJECT LAUNCHER/icon.png"
-          ]
-       },
-        {
-          "name": "3 - PROJECT LAUNCHER V2",
-          "versionName": "4.66",
-          "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/PROJECT LAUNCHER/icon.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/project.laucher.apk",
-          "note": "VUI LÒNG KHÔNG TỰ CÀI NẾU KO CÓ HƯỚNG ĐẪN - Project Launcher By Khánh IT – giải pháp tối ưu giúp TV Android mượt hơn, gọn gàng hơn và dễ sử dụng chỉ trong vài thao tác..",
-          "preview": [
-            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/PROJECT LAUNCHER/icon.png" ]
-        },
-        {
-          "name": "4 - SET PHÍM HOME XIAOMI",
+          "name": "MI VTV MOD 2",
           "versionName": "Mới Nhất",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/4_SETPHIMDIEUKHIEN.apk",
-          "note": "Set phím home mặc định.",
+          "linkDownload": "https://github.com/khanhitpro/caiappxiaomi/releases/download/store1/mivtvplus.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
           ]
         },
         {
-          "name": "5 - CÀI ĐẶT ANDROID",
+          "name": "VIETPLAY XEM VTV",
           "versionName": "Mới Nhất",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/settings_pro.apk",
-          "note": "SETTING TIẾNG VIỆT CHO TIVI XIAOMI CHẠY ANDROID 9.",
+          "linkDownload": "https://github.com/khanhitpro/caiappxiaomi/releases/download/store1/vietplaytv.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
           ]
         },
         {
-          "name": "5 - CÀI ĐẶT MITV",
+          "name": "VMT VỪA MỚI THẤY",
           "versionName": "Mới Nhất",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/settings_mitv.apk",
-          "note": "Ứng dụng HỖ TRỢ CHO SETTING TIVI XIAOMI.",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
-          ]
-           },
-        {
-         "name": "7 - SET TIẾNG VIỆT",
-          "versionName": "1.3.2",
-          "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/5_SETTIENGVIET.apk",
+          "linkDownload": "https://github.com/khanhitpro/caiappxiaomi/releases/download/store1/vmtmod2.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
           ]
