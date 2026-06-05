@@ -1,7 +1,7 @@
 {
   "data": {
     "notification": {
-      "note": " MI STOTE CẬP NHẬT 03/06 - 🔥 CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ   ",
+      "note": " MI STOTE KHO APP DO ADMIN NHÓM XIAOMI TÀI TRỢ - 🔥 CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ   ",
       "photo": "https://github.com/khanhitpro/mistore/releases/download/mistore/splash.png"
     },
 
@@ -51,35 +51,6 @@
           ]
         },
         {
-         "name": "MI VTV",
-          "versionName": "6.8",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/mivtv.apk",
-          "note": "ỨNG DỤNG TRUYỀN HÌNH XEM VTV.",
-          "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
-        },
-        {
-          "name": "MI VTV MOD 2",
-          "versionName": "Mới Nhất",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/caiappxiaomi/releases/download/store1/mivtvplus.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
-          ]
-        },
-        {
-          "name": "VIETPLAY XEM VTV",
-          "versionName": "Mới Nhất",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/caiappxiaomi/releases/download/store1/vietplaytv.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
-          ]
-        },
-        {
           "name": "VMT VỪA MỚI THẤY",
           "versionName": "Mới Nhất",
           "type": "Truyền hình trực tuyến",
@@ -97,28 +68,6 @@
           "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/vAppTV.apk",
           "note": "ỨNG DỤNG XEM TRUYỀN HÌNH.",
           "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
-          ]
-        },
-        {
-          "name": "Truyền Hình_iMedia",
-          "versionName": "mới nhất",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/logo1.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/imediatv.1.apk",
-          "note": "Ứng dụng xem truyền hình miễn phí.",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/anh2.png"
-          ]
-        },
-        {
-         "name": "Truyền hình_DLtivi",
-          "versionName": "Mới Nhất",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/logo2.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/DLtivi.apk",
-          "note": "Ứng dụng xem TV miễn phí.",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/anh2.png"
           ]
         },
         {
