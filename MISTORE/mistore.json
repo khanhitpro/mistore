@@ -1,0 +1,309 @@
+{
+  "data": {
+    "notification": {
+      "note": " MI STOTE CẬP NHẬT 03/06 - 🔥 CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ   ",
+      "photo": "https://github.com/khanhitpro/mistore/releases/download/mistore/splash.png"
+    },
+
+    "tivi": {
+      "apps": [
+        {
+          "name": "VTV GO XEM TRUYỀN HÌNH",
+          "versionName": "mới nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/logo1.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/vtv.go.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"
+          ]
+        },
+        {
+          "name": "MY TV - VNPT",
+          "versionName": "Mới Nhất",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/khanhitpro/XIAOMI/releases/download/khoapp1/MyTV.v.3.52.0_431_2206141108.apk",
+          "note": "MY TV BẢN QUYỀN NHÀ MẠNG VNPT.",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
+          ]
+        },
+        {
+          "name": "TV360 - VIETTEL",
+          "versionName": "Mới Nhất",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/khanhitpro/XIAOMI/releases/download/khoapp1/tv360.2.apk",
+          "note": "BẢN QUYỀN NHÀ MẠNG VIETTEL.",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
+          ]
+        },
+        {
+          "name": "FPT PLAY",
+          "versionName": "mới nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/logo1.png",
+          "linkDownload":"https://github.com/movielegend/KhoApp/releases/download/khoapp1/base.1.apk",
+           "note": "BẢN QUYỀN NHÀ MẠNG FPT.",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/FPTPlay/anh1.png"
+          ]
+        },
+        {
+         "name": "MI VTV",
+          "versionName": "6.8",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/mivtv.apk",
+          "note": "ỨNG DỤNG TRUYỀN HÌNH XEM VTV.",
+          "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
+        },
+        {
+          "name": "MI VTV MOD 2",
+          "versionName": "Mới Nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/khanhitpro/caiappxiaomi/releases/download/store1/mivtvplus.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
+          ]
+        },
+        {
+          "name": "VIETPLAY XEM VTV",
+          "versionName": "Mới Nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/khanhitpro/caiappxiaomi/releases/download/store1/vietplaytv.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
+          ]
+        },
+        {
+          "name": "VMT VỪA MỚI THẤY",
+          "versionName": "Mới Nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/khanhitpro/caiappxiaomi/releases/download/store1/vmtmod2.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
+          ]
+        },
+        {
+          "name": "TRUYỀN HÌNH VAPP TV",
+          "versionName": "1.0.2",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/vAppTV.apk",
+          "note": "ỨNG DỤNG XEM TRUYỀN HÌNH.",
+          "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
+          ]
+        },
+        {
+          "name": "Truyền Hình_iMedia",
+          "versionName": "mới nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/logo1.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/imediatv.1.apk",
+          "note": "Ứng dụng xem truyền hình miễn phí.",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/anh2.png"
+          ]
+        },
+        {
+         "name": "Truyền hình_DLtivi",
+          "versionName": "Mới Nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/logo2.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/DLtivi.apk",
+          "note": "Ứng dụng xem TV miễn phí.",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền hình_DLtivi/anh2.png"
+          ]
+        },
+        {
+          "name": "VieON",
+          "versionName": "Mới Nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/logo1.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/vieon.apk",
+          "note": "Ứng dụng VieON xem phim, truyền hình.",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VieON/anh1.png"
+          ]
+        },
+        {
+          "name": "CÒ TIVI",
+          "versionName": "2.2.0",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/khanhitpro/caiappxiaomi/releases/download/store1/cotv.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
+          ]
+        }
+      ]
+    },
+    
+    "entertainment": {
+      "apps": [
+         {
+          "name": "Chợ Phim",
+          "versionName": "mới nhất",
+          "type": "Giải Trí",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logochophim.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/chophim1.0.3.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logochophim.jpg"]
+         },
+         {
+          "name": "Phim 4K",
+          "versionName": "2.5.8",
+          "type": "Giải Trí",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/4K.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/Phim4K-v2.5.8.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/4K.png"]
+        },
+        {
+          "name": "iQIYI",
+          "versionName": "8.8.1",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/logo1.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/iqy.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/anh1.png"]
+         },
+         {
+          "name": "KHO PHIM CHIẾU RẠP",
+          "versionName": "mới nhất",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/mapvoice.apk",
+          "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
+        }
+      ]
+     },
+        
+    "utilities": {
+      "apps": [
+        {
+          "name": "TIKTOK LITE TIVI XIAOMI NỘI ĐỊA",
+          "versionName": "Nội Địa 2.0",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/tiktok.apk",
+          "note": "Tiktok do cộng đồng tivi xiaomi mod – xem video mượt mà, không gián đoạn, trải nghiệm giải trí đỉnh cao chỉ với một lần cài đặt.",
+          "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
+        },
+        {
+          "name": "YOUTOBE DÀNH CHO XIAOMI NỘI ĐỊA",
+          "versionName": "Nội Địa 1.0.8",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/YOUTOBE/icon.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/youtobeFIX43voice.apk",
+          "note": "KHÔNG NÊN UPDATE - YouTube chặn quảng cáo – xem video mượt mà, không gián đoạn, trải nghiệm giải trí đỉnh cao chỉ với một lần cài đặt.",
+          "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
+        },
+        {
+          "name": "BÓNG ĐÁ TRONG NƯỚC",
+          "versionName": "mới nhất",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstorepro/releases/download/store/bongda.apk",
+          "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
+        },
+        {
+          "name": "BÓNG ĐÁ NƯỚC NGOÀI",
+          "versionName": "2.1",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/Sportzx.live.v.2.1.apk",
+          "note": "BÓNG ĐÁ NƯỚC NGOÀI.",
+          "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
+          ]
+        },
+        {
+          "name": "TRÌNH TẢI APP DÀNH CHO XIAOMI",
+          "versionName": "3.10.13",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/ferraridownloader.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
+        },
+        {
+          "name": "TIZENTOBE",
+          "versionName": "1.0.8",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/TizenTube_v1.0.8.apk",
+          "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
+        },
+        {
+          "name": "ALL TẤT CẢ APP",
+          "versionName": "8.8.1",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/allapp.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
+          ]
+        },
+        {
+          "name": "MS STORE",
+          "versionName": "2.0",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Mstore_2.0.0.apk",
+          "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
+        }
+      ]
+    },
+
+    "childre": {
+      "apps": [
+        {
+          "name": "BrowseHere",
+          "versionName": "mới nhất",
+          "type": "Tiện ích",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoBrowse.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/com.tcl.browser.2.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoBrowse.jpg"]
+        },
+        {
+          "name": "Cốc Cốc",
+          "versionName": "mới nhất",
+          "type": "Tiện ích",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo_coccoc.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/base_coccoc.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo_coccoc.jpg"]
+        },
+        {
+         "name": "WEB BÊN NGA V2",
+          "versionName": "Mới Nhất",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/JioSphere.apk",
+          "note": "Sport TV xem truyền hình, bóng đá trực tuyến.",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
+        },
+        {
+          "name": "1.1.1.1",
+          "versionName": "mới nhất",
+          "type": "Tiện ích",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo1111.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/1111.2.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo1111.jpg"]
+        },
+        {
+          "name": "QUẢN LÝ FILE MIXP",
+          "versionName": "Mới Nhất",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Fix_CậpNhậtThờiGian/logo.png",
+          "linkDownload": "https://github.com/khanhitpro/XIAOMI/releases/download/khoapp1/an.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Fix_CậpNhậtThờiGian/anh.png"]
+        }
+      ]
+    }
+  }
+}
