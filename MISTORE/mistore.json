@@ -8,14 +8,13 @@
     "tivi": {
       "apps": [
         {
-          "name": "VTV GO",
-          "versionName": "mới nhất",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/logo1.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/vtv.go.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"
-          ]
+         "name": "MI VTV",
+          "versionName": "6.8",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/mivtv.apk",
+          "note": "ỨNG DỤNG TRUYỀN HÌNH XEM VTV.",
+          "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
         },
         {
           "name": "MY TV - VNPT",
