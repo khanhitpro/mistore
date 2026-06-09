@@ -8,11 +8,11 @@
     "tivi": {
       "apps": [
         {
-          "name": "VTV GO XEM TRUYỀN HÌNH",
+          "name": "VTV GO PLAY",
           "versionName": "mới nhất",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/logo1.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/vtv.go.apk",
+          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/miplay.apk",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"
           ]
