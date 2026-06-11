@@ -70,6 +70,16 @@
           ]
         },
         {
+          "name": "MI VTV MOD 3",
+          "versionName": "Mới Nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/mivtv365.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
+          ]
+        },
+        {
           "name": "VIETPLAY XEM VTV",
           "versionName": "Mới Nhất",
           "type": "Truyền hình trực tuyến",
