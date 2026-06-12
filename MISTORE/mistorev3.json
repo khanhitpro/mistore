@@ -88,20 +88,20 @@
     "entertainment": {
       "apps": [
          {
-          "name": "Chợ Phim",
+          "name": "VTV GO 2",
           "versionName": "mới nhất",
-          "type": "Giải Trí",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logochophim.jpg",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/chophim1.0.3.apk",
-          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logochophim.jpg"]
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/logo1.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/VTVgo_TV_v12.2.11.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"]
          },
          {
-          "name": "Phim 4K",
-          "versionName": "2.5.8",
-          "type": "Giải Trí",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/4K.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/Phim4K-v2.5.8.apk",
-          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/4K.png"]
+          "name": "X Plore",
+          "versionName": "mới nhất",
+          "type": "giải trí",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoxplore.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/xplore.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoxplore.jpg"]
         },
         {
           "name": "iQIYI",
@@ -112,14 +112,6 @@
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/iQIYI/anh1.png"]
          },
-         {
-          "name": "KHO PHIM CHIẾU RẠP",
-          "versionName": "mới nhất",
-          "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/mapvoice.apk",
-          "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
-         },
         {
           "name": "Galaxy",
           "versionName": "3.10.13",
@@ -129,16 +121,6 @@
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Galaxy/anh.png"
           ]
-         },
-         {
-          "name": "CLOUD STREAM MOD",
-          "versionName": "mới nhất",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/cloudstream.apk",
-          "note": "Pass - nghien android tv - nhập mật khẩu để vào app.",
-          "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
-         },
          {
           "name": "Netflix",
           "versionName": "9.53.1",
@@ -162,23 +144,6 @@
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/logo.png",
           "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/netflix.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Netflix_2025/anh.png"]
-        },
-         {
-          "name": "CLOUD STREAM V2",
-          "versionName": "mới nhất",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/Cloudstream3.apk",
-          "note": "Nhập link - https://bomso/adaden hoặc https://bom.so/WE5ote - vào app để tải nguồn phim về xem + App được tài trợ bởi 1 anh khách ở Hà Nội.",
-          "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
-        },
-        {
-          "name": "Cloudsream Phim hay Mod",
-          "versionName": "2.4.4",
-          "type": "Giải Trí",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logocloudstream.jpg",
-          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/PhimHayVer244.apk",
-          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logocloudstream.jpg"]
         },
         {
           "name": "Stremio",
@@ -205,16 +170,6 @@
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/logo1.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/spotify.apk",
           "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Spotify/anh1.png"]
-        },
-        {
-          "name": "GET OUT",
-          "versionName": "2.2.0",
-          "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/caiappxiaomi/releases/download/store1/getout.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
-          ]
         },
         {
           "name": "Soundcloud",
@@ -246,24 +201,6 @@
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/youtobeFIX43voice.apk",
           "note": "KHÔNG NÊN UPDATE - YouTube chặn quảng cáo – xem video mượt mà, không gián đoạn, trải nghiệm giải trí đỉnh cao chỉ với một lần cài đặt.",
           "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
-        },
-        {
-          "name": "BÓNG ĐÁ TRONG NƯỚC",
-          "versionName": "mới nhất",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstorepro/releases/download/store/bongda.apk",
-          "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
-        },
-        {
-          "name": "BÓNG ĐÁ NƯỚC NGOÀI",
-          "versionName": "2.1",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/Sportzx.live.v.2.1.apk",
-          "note": "BÓNG ĐÁ NƯỚC NGOÀI.",
-          "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
-          ]
         },
         {
           "name": "TRÌNH TẢI APP DÀNH CHO XIAOMI",
@@ -333,12 +270,12 @@
     "childre": {
       "apps": [
         {
-          "name": "TIZENTOBE YOUTOBE MOD",
-          "versionName": "1.0.4",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/tizentube/tizentube.1.apk",
-          "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
+          "name": "TV360",
+          "versionName": "mới nhất",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/logo1.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/tv360.2.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/TV360/anh1.png"]
         },
         {
           "name": "BrowseHere",
