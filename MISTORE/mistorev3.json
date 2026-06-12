@@ -12,7 +12,7 @@
           "versionName": "mới nhất",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/logo1.png",
-          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/miplay.apk",
+          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/vtvgo12t6.apk",
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/VTVGO/anh2.png"
           ]
@@ -51,20 +51,11 @@
           ]
         },
         {
-         "name": "MI VTV",
-          "versionName": "6.8",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/mivtv.apk",
-          "note": "ỨNG DỤNG TRUYỀN HÌNH XEM VTV.",
-          "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
-        },
-        {
-          "name": "MI VTV MOD 2",
+          "name": "VTV PRIME",
           "versionName": "Mới Nhất",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
-          "linkDownload": "https://github.com/khanhitpro/caiappxiaomi/releases/download/store1/mivtvplus.apk",
+          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/vtvprime12t6.apk",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
           ]
