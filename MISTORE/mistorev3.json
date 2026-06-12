@@ -81,19 +81,7 @@
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Galaxy/logo.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Galaxy.Play.TV_3.10.13_APKPure.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Galaxy/anh.png"
-          ]
-         },
-         {
-         "name": "Galaxy",
-          "versionName": "3.10.13",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Galaxy/logo.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Galaxy.Play.TV_3.10.13_APKPure.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Galaxy/anh.png"
-          ]
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Galaxy/anh.png"]
         },
         {
           "name": "iQIYI",
