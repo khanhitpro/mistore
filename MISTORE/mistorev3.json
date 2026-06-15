@@ -329,6 +329,17 @@
           ]
         },
         {
+          "name": "IMOU MOD",
+          "versionName": "Mới Nhất",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/imou.apk",
+          "note": "LƯU Ý PHẢI DÙNG CHUỘT.",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
+          ]
+        },
+        {
           "name": "WEB BÊN NGA V2",
           "versionName": "Mới Nhất",
           "type": "Giải Trí",
