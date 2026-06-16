@@ -71,6 +71,57 @@
           ]
         },
         {
+          "name": "Truyền Hình TV",
+          "versionName": "1.1.7",
+          "type": "Giải Trí",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logotv.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/TV-4.00.apk",
+          "note": "Sport TV xem truyền hình, bóng đá trực tuyến.",
+          "preview": [
+            "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logotv.jpg"
+          ]
+        },
+        {
+          "name": "Cô be Phim",
+          "versionName": "1.0.1",
+          "type": "Giải Trí",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo.rophim.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/cobephimtv.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logo.rophim.jpg"]
+        },
+         {
+          "name": "Phim 4K",
+          "versionName": "2.5.8",
+          "type": "Giải Trí",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/4K.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/Phim4K-v2.5.8.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/4K.png"]
+        },
+        {
+          "name": "Chợ Phim",
+          "versionName": "mới nhất",
+          "type": "Giải Trí",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logochophim.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/chophim1.0.3.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logochophim.jpg"]
+        },
+        {
+          "name": "Sài Gòn Phim",
+          "versionName": "1.0.0",
+          "type": "Giải Trí",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logosaigon.jpg",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/SaiGonPhim.1.0.apk",
+          "preview": ["https://github.com/movielegend/KhoApp/releases/download/khoapp1/logosaigon.jpg"]
+        },
+        {
+          "name": "MapVoice",
+          "versionName": "mới nhất",
+          "type": "Tiện ích",
+          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MapVocie/mapvoice.png",
+          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/mapvoice.apk",
+          "preview": ["https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/MapVocie/mapvoice.png"]
+        },
+        {
           "name": "MY TV VNPT",
           "versionName": "Mới Nhất",
           "type": "Giải Trí",
