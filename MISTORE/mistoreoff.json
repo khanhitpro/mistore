@@ -164,11 +164,11 @@
           ]
           },
         {
-          "name": "MY TV VNPT",
+          "name": "PHIM 4K NEW",
           "versionName": "Mới Nhất",
           "type": "Giải Trí",
           "logo": "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/mytv/t%E1%BA%A3i%20xu%E1%BB%91ng.png",
-          "linkDownload": "https://github.com/hakison/xiaomi/releases/download/khoapp1/MyTV_4.64.apk",
+          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/phim4k.2.5.9.apk",
           "note": "MYTV NHÀ MẠNG VNPT.",
           "preview": [
             "https://raw.githubusercontent.com/hakison/xiaomi/main/Apps/mytv/t%E1%BA%A3i%20xu%E1%BB%91ng.png"
