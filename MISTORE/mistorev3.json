@@ -1,7 +1,7 @@
 {
   "data": {
     "notification": {
-      "note": " MI STOTE KHO APP  - 🔥 CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ   ",
+      "note": " MI STOTE 3 KHO APP  - 🔥 CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ   ",
       "photo": "https://github.com/khanhitpro/mistore/releases/download/mistore/nghidinh5t5banquyen.png"
     },
     "tivi": {
@@ -16,15 +16,26 @@
           "preview": [
             "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/anh2.png"
           ]
+         },
         {
-          "name": "Truyền Hình_iMedia",
-          "versionName": "mới nhất",
+          "name": "VIETPLAY XEM VTV",
+          "versionName": "29T6",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/logo1.png",
-          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/imedia.TV.apk",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/khanhitpro/storetv/releases/download/storetv/vietplay-v2.4.apk",
+          "preview": [
+            "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"
+          ]
+        },
+         {
+          "name": "Truyền Hình TV365",
+          "versionName": "29T6",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logotv365.jpg",
+          "linkDownload": "https://github.com/khanhitpro/storetv/releases/download/storetv/xemtv365-v2.0.apk",
           "note": "Ứng dụng xem truyền hình miễn phí.",
           "preview": [
-            "https://raw.githubusercontent.com/movielegend/KhoApp/main/Apps/Truyền Hình_iMedia/anh2.png"
+            "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logotv365.jpg"
           ]
          },
          {
