@@ -39,16 +39,32 @@
           ]
         },
         {
-          "name": "Truyền Hình VIETPLAY",
-          "versionName": "mới nhất",
+          "name": "PHIM 4K 2.6.0",
+          "versionName": "7T7",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoviet.jpg",
-          "linkDownload": "https://github.com/movielegend/MovieLegendHub/releases/download/apps-v1/VietPlay.TV_2.3.apk",
-          "note": "Ứng dụng xem truyền hình miễn phí.",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/com.oxootv.spagreen_base.apk",
           "preview": [
-            "https://github.com/movielegend/KhoApp/releases/download/khoapp1/logoviet.jpg"
+            "https://raw.githubusercontent.com/khanhitpro/Xiaomi_TV_App/main/storetv2.png"
           ]
-         },{
+        },
+        {
+          "name": "TIZENTOBE",
+          "versionName": "1.0.8",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/khanhitpro/mistore/releases/download/mistore/TizenTube_v1.0.8.apk",
+          "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
+        },
+        {
+          "name": "TIZENTOBE",
+          "versionName": "1.0.0",
+          "type": "Giải Trí",
+          "logo": "https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/cobalt-arm.apk",
+          "preview": ["https://raw.githubusercontent.com/khanhitpro/mistore/main/MISTORE/ic_launcher.png"]
+        },
+        {
           "name": "Truyền Hình MI PLAY",
           "versionName": "mới nhất",
           "type": "Truyền hình trực tuyến",
