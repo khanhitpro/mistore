@@ -1,8 +1,8 @@
 {
   "data": {
     "notification": {
-      "note": " MI STOTE BẢN CẬP NHẬT HOÀN TOÀN MỚI 20T8 - 🔥 CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ   ",
-      "photo": "https://github.com/khanhitpro/mistore/releases/download/mistore/quangcao20t8.png"
+      "note": " MI STOTE BẢN CẬP NHẬT HOÀN TOÀN MỚI 09T9 - 🔥 CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ   ",
+      "photo": "https://github.com/khanhitpro/mistore/releases/download/quangcaomistore/nghidinhbanquyen.png"
     },
     "tivi": {
       "apps": [
@@ -62,50 +62,6 @@
           ]
         },
         {
-          "name": "VIỆT PLAY TV 2.4",
-          "versionName": "Xiaomi_TV_App",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/VIETPLAY30T7.apk",
-          "note": "Ứng dụng xem các kênh truyền hình thiết yếu mượt mà.",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/VIETPLAY.png"
-          ]
-        },
-        {
-          "name": "VTV TV365 3.0",
-          "versionName": "Xiaomi_TV_App",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/TV365V3.apk",
-          "note": "Xem trực tiếp các kênh VTV và thể thao tốc độ ổn định.",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/TV365V3.png"
-          ]
-        },
-        {
-          "name": "BÓNG ĐÁ GETOUT",
-          "versionName": "30T7",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/GETOUT30T7.apk",
-          "note": "Xem trực tiếp các trận bóng đá hấp dẫn trong nước và quốc tế.",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/BONGNOIDIA.png"
-          ]
-        },
-        {
-          "name": "MI VTV TV",
-          "versionName": "Xiaomi_TV_App",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/TVREDMI.apk",
-          "note": "Giao diện truyền hình tối ưu riêng cho TV Redmi và Xiaomi.",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/TV.png"
-          ]
-        },
-        {
           "name": "DL STORE",
           "versionName": "Xiaomi_TV_App",
           "type": "Truyền hình trực tuyến",
@@ -125,7 +81,7 @@
           "versionName": "NO UPDATE 1.0.8",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/YOUTOBENOIDIA.apk",
+          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/YOUTOBE2025FIXVOI.apk",
           "note": "YouTube chuyên dụng cho TV Xiaomi nội địa có giọng nói, sửa lỗi tương thích.",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/YOUTOBENOIDIA.png"
@@ -235,72 +191,6 @@
           ]
         },
         {
-          "name": "RỔ PHIM",
-          "versionName": "6T8",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/ROPHIM6T8.apk",
-          "note": "Kho tổng hợp phim chiếu rạp và phim truyền hình mới nhất.",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/COBEPHIM.png"
-          ]
-        },
-        {
-          "name": "SÀI GÒN PHIM",
-          "versionName": "6T8",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/SAIGONPHIM6T8.apk",
-          "note": "Xem phim trực tuyến miễn phí với máy chủ nhanh.",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/SAIGONPHIM.png"
-          ]
-        },
-        {
-          "name": "CHỢ PHIM",
-          "versionName": "9T8",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/CHOPHIM9T8.apk",
-          "note": "Ứng dụng giải trí phim truyện đa dạng thể loại.",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/CHOPHIM.png"
-          ]
-        },
-        {
-          "name": "RẠP PHIM",
-          "versionName": "9T8",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/RAPPHIM9T8.apk",
-          "note": "Cập nhật liên tục các bộ phim mới nhất ngoài rạp.",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/RAPPHIM.png"
-          ]
-        },
-        {
-          "name": "NVC PHIM",
-          "versionName": "6T8",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/NVCPHIM9T8.apk",
-          "note": "Xem phim bộ ngắn, phim thuyết minh chất lượng ổn định.",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/NVCPHIM.png"
-          ]
-        },
-        {
-          "name": "TIKTOK LITE TV",
-          "versionName": "15T8",
-          "type": "Giải Trí",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/TIKTOKTV.apk",
-          "note": "TikTok mod chuyên dụng màn hình ngang tivi, lướt video mượt mà.",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/TIKTOKTV.png"
-          ]
-        },
-        {
           "name": "PHIM 18+ VAX 6666",
           "versionName": "30T7",
           "type": "Truyền hình trực tuyến",
@@ -324,39 +214,6 @@
           "note": "Trợ lý tìm kiếm giọng nói chuẩn Google.",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/GOOGLEVOICE.png"
-          ]
-        },
-        {
-          "name": "GIỌNG NÓI TV NỘI ĐỊA",
-          "versionName": "1.0",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/GIONGNOITV.apk",
-          "note": "Điều khiển giọng nói TV phiên bản nội địa.",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/GIONGNOIND.png"
-          ]
-        },
-        {
-          "name": "GIỌNG NÓI TV QUỐC TẾ",
-          "versionName": "2.0",
-          "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/Xiaomi_TV_App/raw/refs/heads/main/GIONGNOITV2.apk",
-          "note": "Công cụ tìm kiếm nội dung bằng giọng nói tiếng Việt.",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/GIONGNOIQT.png"
-          ]
-        },
-        {
-          "name": "Giọng Nói KiKi",
-          "versionName": "24.1.1",
-          "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Kiki.24.01.01.apk",
-          "note": "Trợ lý ảo tiếng Việt Kiki hiểu rõ ngôn ngữ bản địa.",
-          "preview": [
-            "https://raw.githubusercontent.com/khanhitpro/LOGO/main/KIKI.png"
           ]
         },
         {
