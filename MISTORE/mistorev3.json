@@ -1,7 +1,7 @@
 {
   "data": {
     "notification": {
-      "note": " MI STOTE BẢN CẬP NHẬT HOÀN TOÀN MỚI 03T9 - 🔥 CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ   ",
+      "note": " MI STOTE BẢN CẬP NHẬT HOÀN TOÀN MỚI 29T9 - 🔥 CUNG CẤP BỘ CÀI TIVI - CÀI GIAO DIỆN MỚI NHẤT - CÀI CÁC APP XEM PHIM - XEM VTV VÀ BÓNG ĐÁ   ",
       "photo": "https://github.com/khanhitpro/mistore/releases/download/quangcaomistore/nghidinhbanquyen.png"
     },
     "tivi": {
@@ -19,10 +19,10 @@
         },
         {
           "name": "FPT PLAY",
-          "versionName": "30T7",
+          "versionName": "29T9",
           "type": "Truyền hình trực tuyến",
           "logo": "https://raw.githubusercontent.com/khanhitpro/LOGO/main/ICON.png",
-          "linkDownload": "https://github.com/khanhitpro/storetv/releases/download/storetv/fptplay.apk",
+          "linkDownload": "https://khoappxiaomi.storetv.workers.dev/apk/FPTPLAY30T9.apk",
           "note": "Truyền hình và giải trí bản quyền nhà mạng FPT Telecom.",
           "preview": [
             "https://raw.githubusercontent.com/khanhitpro/LOGO/main/FPT.png"
